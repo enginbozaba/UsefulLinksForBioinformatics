@@ -4,6 +4,7 @@
 
 ## 1. Programming
    * [Let’s check what happens using python tutor](www.pythontutor.com)
+   * [evaluate](https://int8.io/logistic-regression-part-ii-evaluation/) 
 
 ## 2. Lecture notes
 

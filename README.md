@@ -5,6 +5,7 @@
 ## 1. Programming
    * [Let’s check what happens using python tutor](www.pythontutor.com)
    * [evaluate](https://int8.io/logistic-regression-part-ii-evaluation/) 
+   * [UML](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/)
 
 ## 2. Lecture notes
 

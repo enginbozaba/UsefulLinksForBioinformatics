@@ -8,6 +8,9 @@
    * [UML](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/)
 
 ## 2. Lecture notes
+   * [Algorithms 1](https://www.coursera.org/learn/algorithms-part1)
+   * [Algorithms 2](https://www.coursera.org/learn/algorithms-part2)
+
 
 ## 3. Datasets
 

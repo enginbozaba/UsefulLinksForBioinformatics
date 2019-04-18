@@ -12,7 +12,13 @@
 ## 3. Datasets
 
 ## 4. Resume
-   * [createResume](https://github.com/enginbozaba/UsefulLinksForBioinformatics/blob/master/resume.md)
+   * [URL](https://github.com/enginbozaba/UsefulLinksForBioinformatics/blob/master/resume.md)
+
+## 5. İnterviews Q&A
+
+   * [URL](https://github.com/enginbozaba/UsefulLinksForBioinformatics/blob/master/interviewsQandA.md)
+
+
 
 
 

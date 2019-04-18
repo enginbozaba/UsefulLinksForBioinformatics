@@ -12,7 +12,8 @@
 ## 3. Datasets
 
 ## 4. Resume
-    * [create Resume](https://github.com/enginbozaba/UsefulLinksForBioinformatics/blob/master/resume.md)
+   * [createResume](https://github.com/enginbozaba/UsefulLinksForBioinformatics/blob/master/resume.md)
+
 
 
 https://github.com/bioinformatics-core-shared-training

@@ -2,6 +2,10 @@
 ![Roadmap](https://github.com/enginbozaba/UsefulLinksForBioinformatics/blob/master/Untitled%20Diagram%20(1).jpg)
 
 
+ * [GİT](https://github.com/enginbozaba/git)
+ * [GİT](https://github.com/enginbozaba/linux)
+ 
+ 
 ## 1. Programming
    * [Let’s check what happens using python tutor](www.pythontutor.com)
    * [evaluate](https://int8.io/logistic-regression-part-ii-evaluation/) 

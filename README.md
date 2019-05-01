@@ -2,8 +2,9 @@
 ![Roadmap](https://github.com/enginbozaba/UsefulLinksForBioinformatics/blob/master/Untitled%20Diagram%20(1).jpg)
 
 
- * [GİT](https://github.com/enginbozaba/git)
- * [GİT](https://github.com/enginbozaba/linux)
+ * [1. GİT](https://github.com/enginbozaba/git)
+ 
+ * [2. Linux](https://github.com/enginbozaba/linux)
  
  
 ## 1. Programming

@@ -10,6 +10,8 @@
 ## 2. Lecture notes
    * [Algorithms 1](https://www.coursera.org/learn/algorithms-part1)
    * [Algorithms 2](https://www.coursera.org/learn/algorithms-part2)
+   * [Data Structures and Algorithms-METU](http://user.ceng.metu.edu.tr/~ys/ceng707-dsa/)
+   * [Data Structures-METU](http://user.ceng.metu.edu.tr/~ys/ceng213-ds/)
 
 
 ## 3. Datasets

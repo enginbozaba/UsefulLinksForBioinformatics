@@ -30,8 +30,9 @@
 
 
 
-### RNA-seq
+### Bioinformatics Courses
 
    * http://chagall.med.cornell.edu/RNASEQcourse/
+   * https://newonlinecourses.science.psu.edu/stat555/
 
 https://github.com/bioinformatics-core-shared-training

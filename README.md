@@ -30,6 +30,8 @@
 
 
 
+### RNA-seq
 
+   * http://chagall.med.cornell.edu/RNASEQcourse/
 
 https://github.com/bioinformatics-core-shared-training

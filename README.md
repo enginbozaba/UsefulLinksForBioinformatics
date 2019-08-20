@@ -34,5 +34,6 @@
 
    * http://chagall.med.cornell.edu/RNASEQcourse/
    * https://newonlinecourses.science.psu.edu/stat555/
+   * Bunu arayüzünü yaz : https://turkmia.net/kongre2011/cd/pdf/23%20Cosgun.pdf (shiny)
 
 https://github.com/bioinformatics-core-shared-training

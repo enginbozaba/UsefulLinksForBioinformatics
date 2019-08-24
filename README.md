@@ -31,7 +31,7 @@
 
 
 ### Bioinformatics Courses
-
+   * https://ghr.nlm.nih.gov/primer#newbornscreening
    * http://chagall.med.cornell.edu/RNASEQcourse/
    * https://newonlinecourses.science.psu.edu/stat555/
    * Bunu arayüzünü yaz : https://turkmia.net/kongre2011/cd/pdf/23%20Cosgun.pdf (shiny)

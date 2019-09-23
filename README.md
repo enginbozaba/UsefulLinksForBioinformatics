@@ -36,6 +36,10 @@
    * http://chagall.med.cornell.edu/RNASEQcourse/
    * https://newonlinecourses.science.psu.edu/stat555/
    * https://bioinformatics.ucdavis.edu/training/documentation/
+   * https://bioinformaticsworkbook.org/
+      * https://bioinformaticsworkbook.org/list.html
+   * https://bioinformatics.uconn.edu/wp-content/uploads/sites/15/2018/03/Data_Therapy_RNA_seq_2018week01.pdf
+   * https://biohpc.cornell.edu/doc/RNA-Seq-2017-Lecture1.pdf
    * Bunu arayüzünü yaz : https://turkmia.net/kongre2011/cd/pdf/23%20Cosgun.pdf (shiny)
 
 https://github.com/bioinformatics-core-shared-training
